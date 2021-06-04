@@ -1,6 +1,6 @@
 # Numerical Experiments for the paper "Fast Routing under Uncertainty: Adaptive Learning in Congestion Games with Exponential Weights" 
 
-#### under submission at Neurips 2021.
+### (Currently under submission at Neurips 2021)
 
 0. The raw data is stored in ../TransportationNetworks-master/. The name of the networks corresponding to the name of the subfolders.
 
